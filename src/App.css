@@ -57,7 +57,10 @@ form{
 }
 
 @media screen and (max-width:425px) {
- form{
+ .overall{
+  padding: 20px 0px;
+ }
+  form{
   width: 100%;
   gap: 7px;
   justify-content: center;
